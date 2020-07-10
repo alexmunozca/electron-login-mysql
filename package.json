@@ -1,0 +1,15 @@
+{
+  "name": "eletron-login-mysql",
+  "version": "1.0.0",
+  "description": "Electron login mysql",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "electron src/index.js"
+  },
+  "author": "alexmunozca",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^9.1.0",
+    "promise-mysql": "^4.1.3"
+  }
+}
