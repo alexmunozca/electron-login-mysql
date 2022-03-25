@@ -9,7 +9,7 @@
   "author": "alexmunozca",
   "license": "ISC",
   "dependencies": {
-    "electron": "^9.1.0",
+    "electron": "^13.6.6",
     "promise-mysql": "^4.1.3"
   }
 }
